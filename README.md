@@ -94,7 +94,7 @@
 
 | Skill | 用途 |
 |---|---|
-| cohesion-writing-translation <sub>🔒私有</sub> | AI 写作与翻译衔接规范：七检查点 + 机检清单 + 判例库 |
+| cohesion-writing-translation <sub>🔒私有</sub> | AI 写作与翻译衔接规范：七检查点 + 机检清单 + 判例库 · **[六轮盲测评测方法论 📄](docs/cohesion-blind-test-methodology.md)**（预注册阈值 → 混排盲测 → 口径收紧 → 冻结发布，四模型六轮全记录） |
 | documentary-style-calibration <sub>🔒私有</sub> | 中文学术著作英译的纪录片旁白风格校准 |
 | [weread-shelf-organizer](https://github.com/tanyaqiongcode/weread-shelf-organizer) | 微信读书书架自动整理：重组 / 增量归类 / 迁移核验 |
 
